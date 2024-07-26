@@ -22,7 +22,7 @@ const Navbar = () => {
         <a href="#branding" className="flex flex-col items-center focus:outline-none">
           <span className="text-sm">Branding</span>
         </a>
-        <a href="#clients-review" className="flex flex-col items-center focus:outline-none bg-gray-700 px-6 py-4 rounded-full">
+        <a href="#lets-talk" className="flex flex-col items-center focus:outline-none bg-gray-700 px-6 py-4 rounded-full">
           <span className="text-sm">Let's talk</span>
         </a>
       </div>

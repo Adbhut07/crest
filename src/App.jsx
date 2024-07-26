@@ -12,10 +12,10 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Header />
       <section id='home'>
-        <Intro />
+        <Header />
       </section>
+        <Intro />
       <section id="our-work">
         <OurWork />
       </section>
@@ -31,7 +31,9 @@ function App() {
       <section id="clients-review">
         <ClientsReview />
       </section>
-      <Footer />
+      <section id="lets-talk">
+        <Footer />
+      </section>
     </div>
   )
 }
